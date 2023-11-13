@@ -1,0 +1,66 @@
+.bg-morado{
+    
+    background-color:#009971
+    
+}
+.bg-azul{
+    background-color: indigo;
+    
+}
+.bg-rojo{
+    background-color: #bca875;
+}
+.bg-negro{
+    background-color:#edc951;
+    border: 1px solid snow ; 
+    box-shadow: #29594c 1px 1px 10px;
+
+
+}
+.card-body{
+text-align: center;
+}
+    
+.h-200{
+    height: 150px !important;
+    
+
+}
+.formulario-con-margen-negro {
+    margin:13px;
+    border: 2px solid black;
+    
+}
+.footer-con-fondo-rojo {
+    background-color: red;
+    
+    
+}
+
+.mt-6{
+    margin-top: 6rem;
+}
+
+    .bg-gris{
+        text-align: justify center;
+    }
+    .img-center{
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+    .table td{
+        width: 50%;
+    }
+.table-bordered {
+    border: 2px solid black;
+}
+.table-bordered th, .table-bordered td {
+    border: 2px solid black;
+    background-color: rgb(196, 195, 189);
+}
+    
+
+
